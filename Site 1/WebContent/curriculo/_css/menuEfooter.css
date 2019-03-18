@@ -1,0 +1,30 @@
+nav{
+    background-color: #e0dfdf;
+}
+
+nav li{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+nav li a{
+    color: #404040;
+}
+
+nav li a:hover{
+    color: #7a7a7a;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: #e0dfdf;
+}
+
+footer h1{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #6a6a6a;
+    margin-bottom: -1px;
+    font-weight: bold;
+    
+}

@@ -1,0 +1,151 @@
+header{
+    background-image: url(../_img/codigo.jpg);
+    background-size: cover;
+}
+
+header img{
+    padding: 20px 20px 20px 20px;
+    vertical-align: middle;
+    margin: 6em 0 6em 0;
+}
+
+main{
+    background-image: url(../_img/alaska.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fff;
+}
+
+#secao1{
+    background-color: rgba(255,127,80,0.8);
+}
+
+#secao1 h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 2em;
+    text-align: center;
+    font-size: 50px;
+}
+
+#secao1 #sp1{
+    color: #1a1a1a;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 4em;
+    font-size: 18px;
+}
+
+#secao1 #sp2{
+    color: #1a1a1a;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 1em;
+    font-size: 18px;
+    padding-bottom: 2em;
+}
+
+#secao1 .imagens{
+    margin-left: 20%;
+    padding-top: 2em;
+}
+
+#secao1 #eufoto{
+    padding-top:3em;
+}
+
+#secao1 #fagiin{
+    padding: 10px 10px 10px 10px;
+}
+
+#secao2{
+    background-color: rgba(240,230,140,0.8);
+}
+
+#secao2 h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #444444;
+    padding-top: 2em;
+    text-align: center;
+    font-size: 50px;
+}
+
+#secao2 h2{
+    padding-top: 1em;
+    padding-bottom: 2em;
+    margin-bottom: -1px;
+    text-align: center;
+}
+
+#secao2 p{
+    color: #1a1a1a;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 2em;
+    font-size: 18px;
+    text-align: justify;
+}
+
+#secao2 a{
+    color: #1a1a1a; 
+}
+
+#secao3{
+    background-color: rgba(0,128,0,0.8);
+}
+
+#secao3 h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #444444;
+    padding-top: 2em;
+    text-align: center;
+    font-size: 50px;
+}
+
+#secao3 p{
+    padding-top: 2em;
+    color: #1a1a1a;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+#secao3 h2{
+    text-align: center;
+    padding-bottom: 2em;
+    margin-bottom: -1px;
+}
+
+#secao3 a{
+    color: #1a1a1a; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+}
+
+#secao4{
+    background-color: rgba(65,105,225,0.8);
+}
+
+#secao4 h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+    font-size: 50px;
+}
+
+#secao4 p{
+    color: #fff;
+}
+
+#secao4 h3{
+    padding-bottom: 1em;
+}
+
+form{
+    padding-bottom: 2em;
+}
