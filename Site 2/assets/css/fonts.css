@@ -1,0 +1,26 @@
+@font-face{
+  font-family:'Bau LF';
+  src:url("../fonts/BauComp.eot");
+  src:url("../fonts/BauComp.eot?#iefix") format('embedded-opentype'),url("../fonts/BauComp.woff") format('woff'),url("../fonts/BauComp.ttf") format('truetype'),url("../fonts/BauComp.svg#Bau LF") format('svg');
+  font-weight:'normal';
+  font-style:normal
+}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+  @font-face{
+    font-family:'Bau LF';
+    src:url("../fonts/BauComp.svg#Bau LF") format('svg')}
+}
+@font-face{
+  font-family:'Big Caslon';
+  src:url("../fonts/BigCaslon.eot");
+  src:url("../fonts/BigCaslon.eot?#iefix") format('embedded-opentype'),url("../fonts/BigCaslon.woff") format('woff'),url("../fonts/BigCaslon.ttf") format('truetype'),url("../fonts/BigCaslon.svg#Big Caslon") format('svg');
+  font-weight:'normal';
+  font-style:normal
+}
+.caslon {
+  font-family: 'Big Caslon','Times New Roman',Times,serif;
+  letter-spacing: 1px;
+}
+.bau {
+font-family: 'Bau LF',Helvetica,sans-serif;
+}
